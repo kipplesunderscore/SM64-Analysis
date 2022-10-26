@@ -1,0 +1,19 @@
+* Install and Running
+#+begin_src
+git clone https://github.com/kipplesunderscore/SM64-Analysis.git
+cd SM64-Analysis
+pnpm i
+pnpm run dev
+#+end_src
+
+* Reason
+I created this project to explore rate of improvement over time at speedrunning SM64.
+
+I wanted to see if a structured approach to learning could reduce time spent learning and practicing.
+
+* Technologies
+App is built using Svelte + Tailwindcss.
+
+svelte [[https://github.com/Rich-Harris/pancake][pancake]] library was used for the data visualisation.
+
+Data was obtained through [[https://speedrun.com][speedrun.com]] APIs in early January 2022.
