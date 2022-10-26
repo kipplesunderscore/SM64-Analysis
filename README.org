@@ -1,4 +1,7 @@
-* Install and Running
+* Live
+[[https://sm64-analysis.vercel.app/][https://sm64-analysis.vercel.app/]]
+
+* Installing and Running
 #+begin_src
 git clone https://github.com/kipplesunderscore/SM64-Analysis.git
 cd SM64-Analysis
